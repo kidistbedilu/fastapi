@@ -45,7 +45,7 @@ uvicorn main:app --host 0.0.0.0 --port 8080 --reload
 fastapi-app screenshot.
 ![fastapi-screenshot](assets/fastapi-app.png)
 
-[demo fastapi-app](https://trapezoidal-foregoing-spider.glitch.me/docs) powered by [Glitch](https://glitch.com/) ![Glitch logo](assets/glitch.png) 
+[demo fastapi-app](https://deadpan-melted-hardboard.glitch.me/docs) powered by [Glitch](https://glitch.com/) ![Glitch logo](assets/glitch.png) 
 
 ## Roadmap
 
